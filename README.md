@@ -21,5 +21,8 @@ Notes on Atomic Design by Brad Frost
   </li>
   <li>etc..</li>
   <hr>
+</ol>
   
-  
+  <h2>Design Language</h2>
+  <p>Design languages style guides articulate a general design direction, philosophy, and approach to specific projects or products.</p>
+  <p>Example: Material UI - Google</p>
