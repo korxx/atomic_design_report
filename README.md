@@ -1,6 +1,9 @@
 # atomic_design_report
 Notes on Atomic Design by Brad Frost
 
+<h1>Design Systems</h1>
+<p>The cornerstone of good design systems are style guides, which document and organize design materials while providing guidelines, usage, and guardrails.</p>
+
 <h2>Brand Identity</h2>
 <p>Brand identity guidelines define the assets and materials that make a company unique.</p>
 <ol>
