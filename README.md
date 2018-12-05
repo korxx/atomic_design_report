@@ -27,5 +27,5 @@ Notes on Atomic Design by Brad Frost
 </ol>
   
   <h2>Design Language</h2>
-  <p>Design languages style guides articulate a general design direction, philosophy, and approach to specific projects or products.</p>
+  <p>Design languages style guides articulate a general design direction, philosophy, and approach to specific projects or products.They usually incorporate aspects of other style guides categories in order to make high-level concepts a bit more tangible. Those guidelines are not set in stone the way brand guidelines are. </p>
   <p>Example: Material UI - Google</p>
