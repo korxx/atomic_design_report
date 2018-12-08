@@ -37,4 +37,6 @@
   <li>Lays the groundwork to a sound interface design system</li>
 </ul>
 <p><strong>By taking the time to organize the parts, you can now create the whole in a more realistic, deliberate, and efficient manner.</strong></p>
-PAGE 109
+<h2>Establishing Direction</h2>
+<p>It's essential to agree on an overall design direction and paint the broad strokes first before moving into high-fidelity design and development.</p>
+PAGE 122
